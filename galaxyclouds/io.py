@@ -165,3 +165,5 @@ def generate_synthetic_galaxies(n_per_class=10000, seed=42):
     # Shuffle
     idx = np.random.permutation(len(y_combined))
     return X_combined[idx], y_combined[idx]
+
+# Added King profile generators
