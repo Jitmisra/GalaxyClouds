@@ -513,3 +513,5 @@ def ks_discrimination_table(obs_df, labels) -> pd.DataFrame:
     df_res = pd.DataFrame(results)
     df_res = df_res.sort_values('Mean_KS', ascending=False).drop(columns=['Mean_KS'])
     return df_res
+
+# WIP: half-light radius handling edges
