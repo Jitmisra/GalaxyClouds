@@ -519,3 +519,5 @@ def ks_discrimination_table(obs_df, labels) -> pd.DataFrame:
 # Fix half light radius for 1-source
 
 # Added flux dispersion and asymmetry
+
+# Added gini and M20
