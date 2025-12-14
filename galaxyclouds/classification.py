@@ -111,3 +111,5 @@ def compare_frame_performance(X, y, mask):
     This is analogous to how rest-frame jet features remove longitudinal boost dependence.
     """
     print(explain)
+
+# Frame comparison utility
