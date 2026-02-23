@@ -41,6 +41,14 @@ print(df_obs.head())
 | Gini Coefficient     | $Gini$     | Inequality of flux distribution    | Lorentz curve area                                           |
 | M20 Moment           | $M_{20}$   | 2nd-order moment of brightest 20%  | $\log_{10}(\frac{\sum b_{20} F_i r_i^2}{F_{tot} r_{tot}^2})$ |
 
+## Dashboard Screenshots
+
+![Dashboard View 1](./1.png)
+![Dashboard View 2](./2.png)
+![Dashboard View 3](./3.png)
+![Dashboard View 4](./4.png)
+![Dashboard View 5](./5.png)
+
 ## Notebooks Guide
 
 1. `01_data_loading_exploration.ipynb`: Motivation and basic data exploration
